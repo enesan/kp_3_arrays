@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\massives\massives\bin\Debug\net6.0\massives.exe
+C:\Users\sasha\source\repos\massives\massives\bin\Debug\net6.0\massives.deps.json
+C:\Users\sasha\source\repos\massives\massives\bin\Debug\net6.0\massives.runtimeconfig.json
+C:\Users\sasha\source\repos\massives\massives\bin\Debug\net6.0\massives.dll
+C:\Users\sasha\source\repos\massives\massives\bin\Debug\net6.0\massives.pdb
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\massives.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\massives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\massives.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\massives.AssemblyInfo.cs
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\massives.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\massives.dll
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\refint\massives.dll
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\massives.pdb
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\massives.genruntimeconfig.cache
+C:\Users\sasha\source\repos\massives\massives\obj\Debug\net6.0\ref\massives.dll
