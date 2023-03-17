@@ -1,8 +1,0 @@
-D:\UserFiles\Desktop\учебня\oop\2\bin\Debug\2.exe.config
-D:\UserFiles\Desktop\учебня\oop\2\bin\Debug\2.exe
-D:\UserFiles\Desktop\учебня\oop\2\bin\Debug\2.pdb
-D:\UserFiles\Desktop\учебня\oop\2\obj\Debug\2.csproj.AssemblyReference.cache
-D:\UserFiles\Desktop\учебня\oop\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
-D:\UserFiles\Desktop\учебня\oop\2\obj\Debug\2.csproj.CoreCompileInputs.cache
-D:\UserFiles\Desktop\учебня\oop\2\obj\Debug\2.exe
-D:\UserFiles\Desktop\учебня\oop\2\obj\Debug\2.pdb
