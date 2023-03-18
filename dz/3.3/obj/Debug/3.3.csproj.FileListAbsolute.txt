@@ -1,0 +1,8 @@
+D:\UserFiles\Desktop\учебня\oop\3.3\bin\Debug\3.3.exe.config
+D:\UserFiles\Desktop\учебня\oop\3.3\bin\Debug\3.3.exe
+D:\UserFiles\Desktop\учебня\oop\3.3\bin\Debug\3.3.pdb
+D:\UserFiles\Desktop\учебня\oop\3.3\obj\Debug\3.3.csproj.AssemblyReference.cache
+D:\UserFiles\Desktop\учебня\oop\3.3\obj\Debug\3.3.csproj.SuggestedBindingRedirects.cache
+D:\UserFiles\Desktop\учебня\oop\3.3\obj\Debug\3.3.csproj.CoreCompileInputs.cache
+D:\UserFiles\Desktop\учебня\oop\3.3\obj\Debug\3.3.exe
+D:\UserFiles\Desktop\учебня\oop\3.3\obj\Debug\3.3.pdb
