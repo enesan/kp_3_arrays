@@ -1,0 +1,15 @@
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\bin\Debug\net6.0\WorkWithArrays.exe
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\bin\Debug\net6.0\WorkWithArrays.deps.json
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\bin\Debug\net6.0\WorkWithArrays.runtimeconfig.json
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\bin\Debug\net6.0\WorkWithArrays.dll
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\bin\Debug\net6.0\WorkWithArrays.pdb
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\WorkWithArrays.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\WorkWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\WorkWithArrays.AssemblyInfoInputs.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\WorkWithArrays.AssemblyInfo.cs
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\WorkWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\WorkWithArrays.dll
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\refint\WorkWithArrays.dll
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\WorkWithArrays.pdb
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\WorkWithArrays.genruntimeconfig.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp3_arrays\WorkWithArrays\WorkWithArrays\obj\Debug\net6.0\ref\WorkWithArrays.dll
